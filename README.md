@@ -95,7 +95,7 @@ You can modify `assessment_categories` in the code to:
 
 The main dependencies are:
 - streamlit
-- phi-agent
+- phidata
 - google-generativeai
 - plotly
 - pandas
