@@ -36,7 +36,7 @@ Before you get started, make sure you have:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Bharth4ru/interview-assessment-ai.git
+   git clone https://github.com/Bharath4ru/interview-assessment-ai.git
    cd interview-assessment-ai
    ```
 
